@@ -3,7 +3,7 @@ import random
 
 
 
-renkler=["red","blue","cyan","black"]
+renkler=["red","blue","cyan","green"]
 i=0
 t = turtle.Turtle()
 t.speed(i)
