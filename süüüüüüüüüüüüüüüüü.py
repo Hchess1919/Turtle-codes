@@ -1,9 +1,16 @@
 import turtle
+import random
 
-t = turtle.Turtle()
-t.speed(0)
+
+
+renkler=["red","blue","cyan","black"]
 i=0
+t = turtle.Turtle()
+t.speed(i)
+
 while True:
+    color=random.choice(renkler)
+    t.color(color)
     t.forward(i)
-    i+=0.01
-    t.left(1)
+    i+=1
+    t.left(92)
