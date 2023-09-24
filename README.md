@@ -126,3 +126,47 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/312.py
 
 ![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/3a993fee-24b2-4f18-ad7d-db357a9c87e4)
 
+## **SIXTH**
+
+**CODES:**
+https://github.com/Hchess1919/Turtle-codes/blob/main/renk%20patlamas%C4%B1.py
+
+
+**RESULT**
+
+
+
+
+
+
+
+![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/a015a25d-134c-4efd-b65e-cdbab7ad3249)
+
+
+
+
+
+
+## **SEVENTH**
+
+
+**CODES:**
+https://github.com/Hchess1919/Turtle-codes/blob/main/renk%20patlamas%C4%B12.py
+
+
+**RESULT**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/b54557ec-5a37-4e2a-bc17-ad5d17074967)
