@@ -19,6 +19,7 @@ https://github.com/Hchess1919/asd/blob/main/ert.py
 ## **SECOND**
 
 **CODES**
+https://github.com/Hchess1919/asd/blob/main/codes.2.py
 
 
 **RESULT**
@@ -43,8 +44,8 @@ https://github.com/Hchess1919/asd/blob/main/ert.py
 
 
 ## **THIRD**
-
-
+**CODES:**
+https://github.com/Hchess1919/asd/blob/main/CODES.py
 
 
 
