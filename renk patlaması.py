@@ -7,7 +7,7 @@ turtle.bgcolor("black")
 renkler=["red","blue","cyan","green","yellow"]
 i=0
 t = turtle.Turtle()
-t.speed(i)
+t.speed(0)
 
 while True:
     colors=random.choice(renkler)
