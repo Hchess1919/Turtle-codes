@@ -9,7 +9,7 @@ i=0
 t = turtle.Turtle()
 t.speed(i)
 
-while i!=180:
+while True:
     colors=random.choice(renkler)
     t.color(colors)
     t.forward(i)
