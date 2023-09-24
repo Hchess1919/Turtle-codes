@@ -4,7 +4,7 @@
 ## **FIRST**
 
 **CODES:**
-https://github.com/Hchess1919/asd/blob/main/ert.py
+https://github.com/Hchess1919/Turtle-codes/blob/main/ert.py
 
 **RESULT**
 
@@ -13,13 +13,13 @@ https://github.com/Hchess1919/asd/blob/main/ert.py
 
 
 
-![image](https://github.com/Hchess1919/asd/assets/144543327/958580dc-ba87-44cc-987e-e1a627525059)
+![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/958580dc-ba87-44cc-987e-e1a627525059)
 
 
 ## **SECOND**
 
 **CODES:**
-https://github.com/Hchess1919/asd/blob/main/codes.2.py
+https://github.com/Hchess1919/Turtle-codes/blob/main/codes.2.py
 
 
 **RESULT**
@@ -35,7 +35,7 @@ https://github.com/Hchess1919/asd/blob/main/codes.2.py
 
 
 
-![image](https://github.com/Hchess1919/asd/assets/144543327/472c7722-21c4-46f2-bd84-42ff87f5d0b5)
+![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/472c7722-21c4-46f2-bd84-42ff87f5d0b5)
 
 
 
@@ -45,9 +45,9 @@ https://github.com/Hchess1919/asd/blob/main/codes.2.py
 
 ## **THIRD**
 **CODES:**
-https://github.com/Hchess1919/asd/blob/main/CODES.py
+https://github.com/Hchess1919/Turtle-codes/blob/main/CODES.py
 
 
 
 
-![image](https://github.com/Hchess1919/asd/assets/144543327/2ee933b3-ea92-42bb-82d6-1cb66e5fae65)
+![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/2ee933b3-ea92-42bb-82d6-1cb66e5fae65)
