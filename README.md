@@ -35,7 +35,7 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/codes.2.py
 
 
 
-![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/472c7722-21c4-46f2-bd84-42ff87f5d0b5)
+[![image](https://github.com/Hchess1919/Turtle-codes/assets/144543327/472c7722-21c4-46f2-bd84-42ff87f5d0b5)](https://github.com/Hchess1919/Turtle-codes/blob/main/codes.2.py)
 
 
 
