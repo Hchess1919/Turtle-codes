@@ -3,7 +3,7 @@ import turtle
 def draw_attractive_design3():
     colors = ["red", "orange", "yellow", "green", "blue", "purple"]
     pen = turtle.Turtle()
-    pen.speed(10)
+    pen.speed(0)
     turtle.bgcolor("black")  
     pen.pensize(2)
 
