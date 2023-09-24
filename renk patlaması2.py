@@ -13,7 +13,7 @@ while i!=180:
     colors=random.choice(renkler)
     t.color(colors)
     t.forward(i)
-    i+=10
+    i+=1
     t.left(i)
     
 input()
