@@ -16,6 +16,15 @@ while i!=120:
     t.forward(i)
     t.right(89)
     #time.sleep(1)
+t.penup()
+t.goto(-40,-300)
+t.pendown()
+t.color(siyah)
+t.write('FINALY RESULT')
+
+
 time.sleep(1)
+t.color(beyaz)
+t.write('FINALY RESULT')
 t.bgcolor(siyah)
 t.done()
