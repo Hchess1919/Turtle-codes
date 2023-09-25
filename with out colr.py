@@ -2,6 +2,7 @@ import turtle as t
 import random
 import time
 
+t.hideturtle()
 t.speed(0)
 renkler=['blue','red','yellow','green','cyan']
 i=0
@@ -21,7 +22,6 @@ t.goto(-40,-300)
 t.pendown()
 t.color(siyah)
 t.write('FINALY RESULT')
-
 
 time.sleep(1)
 t.color(beyaz)

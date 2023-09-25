@@ -17,5 +17,5 @@ if kur == 4:
     print(miktar*33,"TL")
 
 if kur == 5:
-    print(miktar*3.902,"TL")
+    print(miktar*3.902,"EUR")
 
