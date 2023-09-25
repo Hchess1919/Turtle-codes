@@ -10,9 +10,10 @@ siyah='black'
 beyaz='white'
 
 while i!=120:
-    color=random.choice(renkler)
-    t.bgcolor(color)
-    t.color(color)
+    color2=random.choice(renkler)
+    color1=random.choice(renkler)
+    t.bgcolor(color2)
+    t.color(color1)
     i+=1
     t.forward(i)
     t.right(89)
