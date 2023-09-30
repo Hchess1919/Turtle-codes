@@ -1,0 +1,9 @@
+for i in range(10):
+
+    dosyaadi="süüüüü"+str(i+1)+".txt"
+    abc = open(dosyaadi, "w")
+    abc.write("asü\n")
+    abc.write("asü\n")
+    abc.write("asü gana Madrid\n")
+    abc.write("süüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüüü")
+abc.close()
