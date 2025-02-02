@@ -214,7 +214,15 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
 
 
 
-## **EIGHTH**
+![image](https://github.com/user-attachments/assets/bd76d8c5-db61-4cc7-9dbb-f01521b6cafe)
+
+
+
+
+
+
+
+## **TENTH**
 
 **CODES:**
 https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
@@ -230,6 +238,30 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
 
 
 
-<img width="449" alt="image" src="https://github.com/Hchess1919/Turtle-codes/assets/144543327/827421f3-f7d8-46ec-a66b-4bf360dfb57e">
+![image](https://github.com/user-attachments/assets/e6ac5bae-3c0a-40f4-9859-e04d2f870e10)
+
+
+
+
+
+## ** ELEVENTH**
+
+**CODES:**
+https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
+
+
+**RESULT**
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/94ad0ade-c42c-4bcb-902a-ea924021f7b4)
+
+
 
 
