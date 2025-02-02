@@ -1,7 +1,7 @@
 for i in range(100):
 
     dosyaadi="süüüüü"+str(i+1)+".py"
-    abc = open(dosyaadi, "w")
+    abc = open(dosyaadi, "a")
     abc.write("asü\n")
     abc.write("asü\n")
     abc.write("asü gana Madrid\n")
