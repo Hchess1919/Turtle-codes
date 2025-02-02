@@ -1,0 +1,12 @@
+import turtle as t
+t.speed(0)
+i=0
+j=0
+while True:
+    t.right(i-12)
+    t.forward(i+12)
+    i+=1
+    j+=1
+    t.backward(j*2)
+    t.left(j)
+    
