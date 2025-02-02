@@ -201,7 +201,7 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
 ## **NINTH**
 
 **CODES:**
-https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
+[https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py](https://github.com/Hchess1919/Turtle-codes/blob/main/dokuzuncu)
 
 
 **RESULT**
@@ -225,7 +225,7 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
 ## **TENTH**
 
 **CODES:**
-https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
+[https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py](https://github.com/Hchess1919/Turtle-codes/blob/main/seko)
 
 
 **RESULT**
@@ -244,8 +244,7 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
 
 
 
-## ** ELEVENTH**
-
+## **ELEVENTH**
 **CODES:**
 [https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py](https://github.com/Hchess1919/Turtle-codes/blob/main/2025)
 
