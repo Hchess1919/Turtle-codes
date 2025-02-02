@@ -194,3 +194,42 @@ https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
 <img width="449" alt="image" src="https://github.com/Hchess1919/Turtle-codes/assets/144543327/827421f3-f7d8-46ec-a66b-4bf360dfb57e">
 
 
+
+
+
+
+## **NINTH**
+
+**CODES:**
+https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
+
+
+**RESULT**
+
+
+
+
+
+
+
+
+
+## **EIGHTH**
+
+**CODES:**
+https://github.com/Hchess1919/Turtle-codes/blob/main/colored%20shape.py
+
+
+**RESULT**
+
+
+
+
+
+
+
+
+
+<img width="449" alt="image" src="https://github.com/Hchess1919/Turtle-codes/assets/144543327/827421f3-f7d8-46ec-a66b-4bf360dfb57e">
+
+
